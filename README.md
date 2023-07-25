@@ -17,4 +17,4 @@ https://github.com/bitnami-labs/k8s-training-resources<br/>
 [https://kubernetes.courselabs.co/](https://kubernetes.courselabs.co/)<br/>
 [https://labs.play-with-k8s.com/](https://labs.play-with-k8s.com/)<br/>
 [https://training.play-with-kubernetes.com/](https://training.play-with-kubernetes.com/)<br/>
-
+[https://killercoda.com/](https://killercoda.com/)
