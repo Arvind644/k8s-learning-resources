@@ -11,7 +11,7 @@ https://github.com/kubernauts/Kubernetes-Learning-Resources/blob/master/pages/ho
 
 https://github.com/bitnami-labs/k8s-training-resources<br/>
 
-## hands on labs:
+## hands on labs :
 
 [https://collabnix.github.io/kubelabs/](https://collabnix.github.io/kubelabs/)<br/>
 [https://kubernetes.courselabs.co/](https://kubernetes.courselabs.co/)<br/>
