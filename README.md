@@ -1,4 +1,4 @@
-# k8s-learning-resources <br/>
+# k8s learning resources    <br/>
 
 https://github.com/kubernauts/Kubernetes-Learning-Resources/blob/master/pages/resources.md<br/>
 https://github.com/ajeetraina/kubernetes101<br/>
