@@ -18,3 +18,8 @@ https://github.com/bitnami-labs/k8s-training-resources<br/>
 [https://labs.play-with-k8s.com/](https://labs.play-with-k8s.com/)<br/>
 [https://training.play-with-kubernetes.com/](https://training.play-with-kubernetes.com/)<br/>
 [https://killercoda.com/](https://killercoda.com/)
+
+## Books : 
+
+Kubernetes in action
+Production kubernetes
