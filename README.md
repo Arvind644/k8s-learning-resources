@@ -21,5 +21,5 @@ https://github.com/bitnami-labs/k8s-training-resources<br/>
 
 ## Books : 
 
-Kubernetes in action
+Kubernetes in action <br />
 Production kubernetes
